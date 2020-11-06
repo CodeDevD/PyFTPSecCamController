@@ -6,3 +6,6 @@ Nutze deine FTP Kamera mit diesem Skript, um automatisch das Kamerabild zu sehen
 ## To-Do:
 1. Fülle das Skript mit deinen Daten auf, wie zum Beispiel die Information zur FTP Verbingung.
 2. Setzte den Pfad zu deiner Warnsound-Datei im Skript.
+
+Getestet an einem bplaced Server.
+
