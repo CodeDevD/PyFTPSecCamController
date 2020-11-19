@@ -2,6 +2,7 @@
 Watch your FTP camera feed if it detects something suspicious.
 
 Nutze deine FTP Kamera mit diesem Skript, um automatisch das Kamerabild zu sehen, sobald die Kamera was erkannt hat. Füge außerdem ein Warnsound hinzu, um mitzubekommen, wenn eine Person erkannt wurde.
+*Benötigt eine eingrichtete Motion Detection FTP Kamera.
 
 ## To-Do:
 1. Fülle das Skript mit deinen Daten auf, wie zum Beispiel die Information zur FTP Verbingung.
